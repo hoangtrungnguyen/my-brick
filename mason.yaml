@@ -3,3 +3,5 @@ bricks:
   very_good_dart_package: ^0.4.1
   example_feat:
     path: example_feat
+  repository:
+    path: repository
