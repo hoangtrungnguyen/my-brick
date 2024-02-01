@@ -9,5 +9,4 @@ class {{feature_name.pascalCase()}}State with _${{feature_name.pascalCase()}}Sta
 
   {{feature_name.pascalCase()}}State._();
 
-  {{feature_name.pascalCase()}}State.initial();
 }
