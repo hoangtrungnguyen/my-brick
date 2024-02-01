@@ -11,7 +11,7 @@ class {{feature_name.pascalCase()}} extends StatelessWidget {
     Widget build(BuildContext context) {
         return  BlocProvider<{{feature_name.pascalCase()}}Cubit>(
             create: (BuildContext context){
-                return {{feature_name.pascalCase()}}Cubit();
+                return {{feature_name.pascalCase()}}Cubit({{feature_name.pascalCase()}}State());
             },
             child: Scaffold()
         );
