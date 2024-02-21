@@ -1,7 +1,7 @@
 bricks:
-  hello: 0.1.0+1
-  very_good_dart_package: ^0.4.1
   example_feat:
     path: example_feat
   repository:
     path: repository
+  new_feat:
+    path: bricks/new_feat
