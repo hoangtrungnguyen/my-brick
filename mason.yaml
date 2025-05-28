@@ -1,7 +1,7 @@
 bricks:
-  example_feat:
-    path: example_feat
-  repository:
-    path: repository
   new_feat:
     path: bricks/new_feat
+  feature:
+    path: bricks/feature
+  hello_world:
+    path: hello_world
