@@ -1,4 +1,4 @@
-name: model
+name: base_app
 description: A new brick created with the Mason CLI.
 
 # The following defines the brick repository url.
@@ -28,6 +28,6 @@ environment:
 vars:
   name:
     type: string
-    description: Model Name
-    default: model
-    prompt: What is your model's name?
+    description: Your name
+    default: Dash
+    prompt: What is your name?
