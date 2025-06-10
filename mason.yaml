@@ -3,5 +3,7 @@ bricks:
     path: bricks/new_feat
   feature:
     path: bricks/feature
+  model:
+    path: bricks/model
   hello_world:
     path: hello_world
